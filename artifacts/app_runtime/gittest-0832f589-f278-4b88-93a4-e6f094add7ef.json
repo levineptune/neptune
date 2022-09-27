@@ -42,6 +42,25 @@
 							],
 							"data": [
 								{
+									"fieldNo": "3facc0eb-e1bd-4806-c352-4627422837b0",
+									"fieldName": "oNUIText",
+									"fieldParent": "4",
+									"fieldType": "nep.bootstrap.Text",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "hi",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
 									"fieldNo": "5",
 									"fieldName": "oFooter",
 									"fieldParent": "4",
@@ -133,7 +152,7 @@
 			"data": []
 		}
 	],
-	"ver": "22.9.27.1519",
+	"ver": "22.9.27.1521",
 	"application": "gittest",
 	"title": "",
 	"description": "",
@@ -164,7 +183,7 @@
 	"libHighchart": false,
 	"libHighmap": false,
 	"publicAccess": false,
-	"ui5_bootstrap": false,
+	"ui5_bootstrap": true,
 	"apis": [],
 	"package": "777cd8e1-dbfc-40e9-9990-f4ffa2ab3e85"
 }

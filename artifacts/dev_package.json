@@ -4,16 +4,17 @@
 	"createdBy": "admin",
 	"git": {
 		"targetServers": [],
-		"remote": "https://github.com/levineptune/neptune.git"
+		"remote": "https://github.com/levineptune/neptune.git",
+		"testServers": []
 	},
 	"name": "gittest",
 	"description": null,
-	"ver": "22.9.27.1513",
+	"ver": "22.9.27.1519",
 	"enableCICD": true,
 	"apps": [
 		{
 			"id": "0832f589-f278-4b88-93a4-e6f094add7ef",
-			"ver": "22.9.27.1519",
+			"ver": "22.9.27.1521",
 			"application": "gittest",
 			"title": "",
 			"description": ""
