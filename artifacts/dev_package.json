@@ -8,9 +8,17 @@
 	},
 	"name": "gittest",
 	"description": null,
-	"ver": "22.9.27.157",
+	"ver": "22.9.27.1513",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "0832f589-f278-4b88-93a4-e6f094add7ef",
+			"ver": "22.9.27.1519",
+			"application": "gittest",
+			"title": "",
+			"description": ""
+		}
+	],
 	"api": [],
 	"odataMock": [],
 	"odataSource": [],
