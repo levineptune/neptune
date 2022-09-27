@@ -1,0 +1,21 @@
+{
+	"id": "3b0181d6-f376-4971-ae1e-886cd311d191",
+	"createdAt": "2022-09-27T14:24:04.000Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "0d12876d-7f7a-402d-9edc-a1bfaf4b8b92",
+			"fieldName": "test",
+			"fieldType": "text"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "gittable",
+	"description": null,
+	"ver": "22.9.27.1524",
+	"enableAudit": false,
+	"package": "777cd8e1-dbfc-40e9-9990-f4ffa2ab3e85",
+	"rolesRead": [],
+	"rolesWrite": []
+}

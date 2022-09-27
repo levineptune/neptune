@@ -9,7 +9,7 @@
 	},
 	"name": "gittest",
 	"description": null,
-	"ver": "22.9.27.1519",
+	"ver": "22.9.27.1522",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -23,7 +23,14 @@
 	"api": [],
 	"odataMock": [],
 	"odataSource": [],
-	"dictionary": [],
+	"dictionary": [
+		{
+			"id": "3b0181d6-f376-4971-ae1e-886cd311d191",
+			"name": "gittable",
+			"description": null,
+			"ver": "22.9.27.1524"
+		}
+	],
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
